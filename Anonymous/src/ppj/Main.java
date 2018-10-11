@@ -1,7 +1,7 @@
 package ppj;
 
 public class Main {
-
+	// aaa
 	public class SomeClass<T> {
 		protected T t;
 
